@@ -2,7 +2,7 @@
 export default function Home() {
   return (
     <div>
-      <h1>Next-js mantine tailwind template</h1>
+      <h1 className="text-green">Next-js app mantine tailwind --typescript</h1>
     </div>
   );
 }
